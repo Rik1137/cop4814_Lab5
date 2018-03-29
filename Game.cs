@@ -38,6 +38,8 @@ namespace Lab2
         {
             String message = team1 + " (" + team1Score + ") " + "- " + team2 + " (" + team2Score + ") ";
             return message;
+            
+            
         }
 
 
