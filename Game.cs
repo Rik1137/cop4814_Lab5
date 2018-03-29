@@ -9,8 +9,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Xml.Serialization;
 //STEP 10.2
-OPTION1
+
 //STEP 11
+
 namespace Lab2
 {
     public class Game
