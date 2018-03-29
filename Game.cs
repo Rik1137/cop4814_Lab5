@@ -32,7 +32,7 @@ namespace Lab2
             this.team1Score = team1Score;
             this.team2Score = team2Score;
         }
-
+//STEP 11
         public override string ToString()
         {
             String message = team1 + " (" + team1Score + ") " + "- " + team2 + " (" + team2Score + ") ";
