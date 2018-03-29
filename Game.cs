@@ -29,6 +29,7 @@ namespace Lab2
         {
             this.team1 = team1;
             this.team2 = team2;
+            
             this.team1Score = team1Score;
             this.team2Score = team2Score;
         }
