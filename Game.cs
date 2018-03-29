@@ -1,5 +1,6 @@
 //COMMENTS AFTER STEP 7
 
+//STEP 10
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Xml.Serialization;
 //STEP 10.2
-OPTION1
+
+//STEP 11
+
 namespace Lab2
 {
     public class Game
@@ -27,6 +30,7 @@ namespace Lab2
         {
             this.team1 = team1;
             this.team2 = team2;
+            
             this.team1Score = team1Score;
             this.team2Score = team2Score;
         }
